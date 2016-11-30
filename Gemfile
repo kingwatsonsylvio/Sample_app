@@ -9,6 +9,7 @@ gem 'sqlite3'
 gem 'rspec', '~> 3.5'
 gem 'webrat', '~> 0.7.3'
 gem 'rspec-rails', '~> 3.5', '>= 3.5.2'
+gem 'spork', '~> 0.9.2'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
